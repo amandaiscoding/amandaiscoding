@@ -15,7 +15,7 @@
 - 📫 Reach me at **amandahaggerty6@gmail.com**
 </p>
 
-<h3 align="left">Languages and Tools:</h3><br>
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -28,15 +28,14 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Connect with me:</h3><br>
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/amandaiscoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amandaiscoding" height="30" width="40" /></a>
 <a href="https://instagram.com/aliens2k17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aliens2k17" height="30" width="40" /></a>
 <a href="https://discord.com/users/279451721095446529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dorilikeswine" height="30" width="40" /></a>
 
-<br><br>
-
+<br>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amandaiscoding&show_icons=true&theme=neon&rank_icon=github&hide=issues" width=400px height=180px/>
 </a>
