@@ -38,9 +38,9 @@
 <br>
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amandaiscoding&show_icons=true&theme=neon&rank_icon=github&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amandaiscoding&show_icons=true&theme=neon&rank_icon=github&hide=issues" width=400px height=180px/>
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaiscoding&layout=compact&theme=neon&card_width=400px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaiscoding&layout=compact&theme=neon" width=313px height=180px />
 </a>
 
