@@ -37,6 +37,10 @@
 
 <br>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=amandaiscoding&show_icons=true&theme=neon&rank_icon=github&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandaiscoding&layout=compact&theme=neon&card_width=400px)
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amandaiscoding&show_icons=true&theme=neon&rank_icon=github&hide=issues" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaiscoding&layout=compact&theme=neon&card_width=400px" />
+</a>
 
