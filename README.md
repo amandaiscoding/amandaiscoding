@@ -35,7 +35,7 @@
 <a href="https://instagram.com/aliens2k17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aliens2k17" height="30" width="40" /></a>
 <a href="https://discord.com/users/279451721095446529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dorilikeswine" height="30" width="40" /></a>
 
-<br>
+<br><br>
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amandaiscoding&show_icons=true&theme=neon&rank_icon=github&hide=issues" width=400px height=180px/>
