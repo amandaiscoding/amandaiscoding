@@ -37,8 +37,6 @@
 
 <br>
 
-![Stats-Light](https://github-readme-stats.vercel.app/api?username=amandaiscoding&show_icons=true&theme=buefy&include_all_commits=true&rank_icon=github&hide=issues&#gh-light-mode-only)
-![Stats-Dark](https://github-readme-stats.vercel.app/api?username=amandaiscoding&show_icons=true&theme=jolly&include_all_commits=true&rank_icon=github&hide=issues#gh-dark-mode-only)
-![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=amandaiscoding&layout=compact&theme=buefy&card_width=400px#gh-light-mode-only)
-![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=amandaiscoding&layout=compact&theme=jolly&card_width=400px#gh-dark-mode-only)
+![Stats](https://github-readme-stats.vercel.app/api?username=amandaiscoding&show_icons=true&theme=neon&rank_icon=github&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandaiscoding&layout=compact&theme=neon&card_width=400px)
 
