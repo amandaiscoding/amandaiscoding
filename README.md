@@ -8,9 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandaiscoding&label=Profile%20views&color=0e75b6&style=flat" alt="amandaiscoding" /> </p>
 
-- 🔭 Currently working on **2 different courses, 1 online and 1 in person**
-
-- 🌱 Currently learning **React, Bootstrap and Node.js**
+- 🔭 Currently working on **2** online courses
 
 - 📫 Reach me at **amandahaggerty6@gmail.com**
 </p>
