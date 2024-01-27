@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandaiscoding&label=Profile%20views&color=0e75b6&style=flat" alt="amandaiscoding" /> </p>
 
-- 🔭 Currently working on **2** online courses
+- 🔭 Currently working on **2** online courses - <a href="https://www.coursera.org/learn/learn-react/">Learn React<a> & <a href="https://www.coursera.org/professional-certificates/google-ux-design">Google's UX Design<a>
 
 - 📫 Reach me at **amandahaggerty6@gmail.com**
 </p>
